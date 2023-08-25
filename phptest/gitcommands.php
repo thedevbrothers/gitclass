@@ -1,4 +1,7 @@
 
+
+git checkout -b feature/test  branch bna lyi aa 
+
 1. # create a new directory, and initialize it with git-specific functions
 git init my-repo
 
