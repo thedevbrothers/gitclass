@@ -4,7 +4,7 @@
   <title>Active Class Check</title>
 </head>
 <body>
-  <ul id="myList">
+  <ul id="myList"> 
     <li>Item 1</li>
     <li class="]">Item 2 (active)</li>
     <li>Item 3</li>
